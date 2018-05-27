@@ -70,7 +70,7 @@ const checkDivisibilityBy3 = divisibilityCheckerFactory(3);
 const checkDivisibilityBy10 = divisibilityCheckerFactory(10);
 const checkDivisibilityBy21 = divisibilityCheckerFactory(21);
 
-/*
+
 
 console.log("Numbers divisible by 3: ",checkDivisibilityBy3(numbers));
 console.log("Amount of numbers divisible by 3: ",checkDivisibilityBy3(numbers).length);
@@ -83,7 +83,6 @@ console.log("Amount of numbers divisible by 21: ",checkDivisibilityBy21(numbers)
 
 console.log("Amount of numbers divisible by 1 to 30: ",checkDivisibilityFor1to30());
 
-*/
 
 /*
     Step 2
